@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: manual-backtest-sim
+    env: python
+    buildCommand: ""
+    startCommand: streamlit run app.py --server.port 10000 --server.enableCORS false
+    plan: free
