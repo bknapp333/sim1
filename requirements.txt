@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+alpaca-trade-api
+yfinance
+llama-index
+PyMuPDF
+python-multipart
