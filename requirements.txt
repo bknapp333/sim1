@@ -1,7 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+alpaca-trade-api
 fastapi
 uvicorn
-alpaca-trade-api
-yfinance
-llama-index
-PyMuPDF
-python-multipart
